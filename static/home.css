@@ -1,0 +1,18 @@
+img.img-content{
+    position: relative;
+    left:300px;
+    top:100px;
+}
+h3.home-content{
+    position: absolute;
+    left: 300px;
+    top: 60px;
+    font-size: 200%;
+}
+div#container{
+    margin: 0 auto;
+}
+
+div#read_title{
+    list-style: none!important;
+}
